@@ -14,7 +14,7 @@ __structure__
 
 this code usses the class file 
 to ensure and control all the things happening in this
-the logs list maintains the entries tho its not used
+the list maintains the entries tho its not used
 
 the other lists are defined and made to store the files
 the class has all the exception handing with all the condions hardcoded thow if and else
